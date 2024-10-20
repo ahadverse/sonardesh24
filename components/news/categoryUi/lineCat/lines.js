@@ -5,7 +5,7 @@ import React from "react";
 const Lines = ({ news }) => {
   return (
     <div className="sm:w-[380px] h-[130px] border flex justify-between items-center mt-2  p-2">
-      <Image
+      <img
         width={150}
         height={120}
         className="w-[150px]  h-[120px]"

@@ -6,7 +6,7 @@ const LineCategoryWedge = ({ news }) => {
   return (
     <div>
       <div className="sm:w-[380px] sm:h-[420px] border border-gray-200 p-2 overflow-hidden">
-        <Image
+        <img
           width={380}
           height={250}
           className="w-full h-[250px]"

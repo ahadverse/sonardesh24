@@ -5,7 +5,7 @@ import React from "react";
 const SportsSmallReverse = ({ news }) => {
   return (
     <div className="sm:w-[350px] w-full sm:h-[150px] border flex sm:justify-between gap-5 sm:gap-0 items-center p-2 overflow-hidden">
-      <Image
+      <img
         width={150}
         height={130}
         className="w-[150px]  h-[130px]"

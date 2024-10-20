@@ -10,7 +10,7 @@ const SportsSmall = ({ news }) => {
           {news?.title?.slice(0, 60)}
         </h1>
       </Link>
-      <Image
+      <img
         width={150}
         height={130}
         className="sm:w-[150px]  h-[130px]"

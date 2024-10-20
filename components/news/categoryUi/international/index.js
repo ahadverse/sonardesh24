@@ -5,7 +5,7 @@ import React from "react";
 const International = ({ news }) => {
   return (
     <div className="relative sm:w-[550px] sm:h-[390px]">
-      <Image
+      <img
         width={550}
         height={390}
         className="w-full h-full border p-2"

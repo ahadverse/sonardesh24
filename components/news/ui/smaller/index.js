@@ -5,7 +5,7 @@ import React from "react";
 const Smaller = ({ news }) => {
   return (
     <div className="sm:w-[300px] sm:h-[93px] flex justify-between items-start border  p-2">
-      <Image
+      <img
         width={120}
         height={70}
         className="sm:w-[120px] h-[70px]"

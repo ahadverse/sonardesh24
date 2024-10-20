@@ -18,7 +18,7 @@ const NewsList = ({ news }) => {
       <div className="flex flex-col block sm:hidden gap-5">
         {news.map((a) => (
           <div className="sm:w-[300px] h-[123px] flex justify-between items-center border  p-2">
-            <Image
+            <img
               width={120}
               height={70}
               className="sm:w-[120px] h-[80px]"

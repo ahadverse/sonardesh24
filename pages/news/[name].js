@@ -73,7 +73,7 @@ const Details = ({ data }) => {
             </div>
           </div>
           <br />
-          <Image
+          <img
             width={750}
             height={450}
             className="w-full sm:h-[450px] sm:p-0 p-2"

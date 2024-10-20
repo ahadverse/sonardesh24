@@ -6,7 +6,7 @@ const NewsListWedge = ({ news }) => {
   return (
     <div className="flex justify-between items-center border overflow-hidden mb-5">
       <div className="m-2">
-        <Image
+        <img
           width={450}
           height={250}
           className="sm:w-[450px] sm:h-[250px]"
